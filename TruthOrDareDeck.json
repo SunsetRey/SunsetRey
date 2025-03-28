@@ -55,12 +55,16 @@
         "What is your guilty pleasure?",
         "If you could bring a famous person back to life, who would it be and why?",
         "Do you prefer to have sex with lights on or off? Why?",
+        "What is the most money you've donated to a streamer?",
+        "<player> rate <local> ass between 1 and 10",
         "Do you prefer if your partner is loud or silent during sex? Why?"
     ],
     "Dares": [
         "Until your next turn, replace the letter at the start of each word you speak with the letter B",
         "Let the group decide which public avatar you use until the start of your next turn",
         "Do your loudest Huuayaaahhhh for the group",
+        "Set your last downloaded photo to your phone background for a week",
+        "Come up with <range[1-10]> complement/s for <player>",
         "Let <player> decide what your online status says for the rest of the game",
         "Do your best impression of giving someone oral sex on <player>",
         "Let the group decide who sits on you until your next round",
@@ -109,6 +113,7 @@
         "Bark like a dog until the start of your next turn",
         "Meow like a cat until the start of your next turn",
         "Argue with the wall for the next minute and pretend it's talking back",
+        "Let <player> decide what your Discord status should be for a week",
         "Try to seduce <player>"
     ]
 }
